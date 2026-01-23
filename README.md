@@ -2,24 +2,22 @@
 
 **`Web Developer | Software Engineering Student`**
 
-<div style="display: flex; justify-content: center; align-items: center;">
+<div style="display: flex; justify-content: center; align-items: center; width: 100%">
+<div style="flex: 1; width: 50%;">
 <div style="flex: 1">
-<p>
+<a target="_blank" align="center">
+  <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
+</a>
+</div>
 I am a third-year Software Engineering student and a Full-Stack Web Developer specializing in Laravel and PostgreSQL. I have experience with a wide range of technologies including Oracle, MySQL, MongoDB, PHP, Java, Spring Boot, C#, ASP.NET MVC, and modern frontend frameworks like React, Next.js, Bootstrap, HTML, CSS, and JavaScript.
-</p>
-<p>
+
 I also have hands-on experience with TypeScript, Python, C++, VB.NET, and CMS platforms, as well as UI/UX design tools including Figma, Adobe Illustrator, Photoshop, and Adobe XD. Additionally, I am proficient in Microsoft Office and comfortable working in Linux environments.
-</p>
-<p>
+
 I enjoy building scalable web applications, exploring new technologies, and creating clean, maintainable code across the full stack.
-</p>
 
 </div>
 
 
-<a target="_blank" align="center" style="flex: 1">
-  <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
-</a>
 </div>
 <p align="left">
   <a href="https://github.com/seyha26?tab=followers">
