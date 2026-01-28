@@ -6,12 +6,10 @@
 <div style="flex: 1; width: 50%;">
 <div style="flex: 1">
 
-</div>
 I am a third-year Software Engineering student and a Web Developer specializing in Laravel and PostgreSQL.
 
-I enjoy building scalable web applications, exploring new technologies, and creating clean, maintainable code across the full stack.
 
-</div>
+I enjoy building scalable web applications, exploring new technologies, and creating clean, maintainable code across the full stack.
 
 
 </div>
